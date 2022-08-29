@@ -203,7 +203,7 @@ namespace sudoku
 
                 if (resztablabanKeres(utasitas.sor, utasitas.oszlop, utasitas.szam))
                 {
-                    Console.WriteLine("Az adott oszlopban már szerepel a szám");
+                    Console.WriteLine("Az adott résztáblázatban már szerepel a szám");
                     Console.WriteLine();
                     continue;
                 }
