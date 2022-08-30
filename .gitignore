@@ -1,0 +1,6 @@
+# .NET mappák
+**/obj
+**/bin
+
+# Forrásmappák
+**/forrasok
