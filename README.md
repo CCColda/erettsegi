@@ -1,5 +1,9 @@
 ## Informatika érettségi feladatok C#-ban
 Csak gyakorló jellegű 🙂
 
- - 2021 május 17. – [Gödrök](godrok/README.md)
- - 2021 október 26. – [Sudoku](sudoku/README.md)
+### Programozás, algoritmizálás
+ - 2021. május 17. – [Gödrök](programozas/godrok/)
+ - 2021. október 26. – [Sudoku](programozas/sudoku/)
+
+### Adatbázis-kezelés
+ - 2022. május 16. - [Vasútvonalak](adatbazis/vasut/)

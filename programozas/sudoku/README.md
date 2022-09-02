@@ -1,5 +1,5 @@
 ## Informatika emelt szintű gyakorlati vizsga
-2021 október 26.
+2021. október 26. – programozás feladat
 
 ---
 
