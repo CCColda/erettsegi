@@ -79,3 +79,35 @@ foreach (int szam in szamok) {
 
 }
 ```
+
+- halmazok (`HashSet`)
+```cs
+using System.Collections.Generic;
+
+HashSet<int> halmaz = new HashSet<int>();
+halmaz.Add(8);
+halmaz.Add(2);
+halmaz.Add(1);
+halmaz.Remove(2);
+
+// listává: new List<int>(halmaz)
+```
+
+- asszociatív tömbök (`Dictonary`)
+```cs
+Dictionary<string, int> dict = new Dictionary<string, int>();
+
+dict["asd"] = 9;
+
+if (dict.ContainsKey("asd")) { }
+
+// listává: new List<string>(dict.Keys);
+// listává: new List<int>(dict.Values);
+```
+
+- listaösszefűzés (`Join`)
+```cs
+List<int> lista = new List<int>(new int[]{1, 2, 3});
+
+string szoveg = String.Join(" ", lista);
+```
