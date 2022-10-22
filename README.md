@@ -6,6 +6,7 @@ Csak gyakorló jellegű 🙂
  - 2021 október 26. – [Sudoku](programozas/sudoku/)
  - 2018 május 14. - [Társalgó](programozas/tarsalgo/)
  - 2014 május 13.  - [IPv6](programozas/IPv6/)
+ - 2020 október 28.  - [Sorozatok](programozas/sorozatok/)
 
 ### Adatbázis-kezelés
  - 2022 május 16. - [Vasútvonalak](adatbazis/vasut/)
